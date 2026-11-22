@@ -1,6 +1,6 @@
 # Ayaz Ali Shaikh — Personal Website
 
-A responsive, bilingual (Sindhi/English) static website prepared for GitHub Pages.
+A responsive, bilingual (English) static website prepared for GitHub Pages.
 
 ## Files
 - `index.html` — page content
